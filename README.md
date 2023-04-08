@@ -7,7 +7,7 @@ To build a robust software, then assuredly you need this powerful tool.
 
 In this repo look out for some basics syntaxes and beginner-friendly programs to increase the likeness to this language<br>
 A careful tailored approach for anyone starting the C++ journey<br>
-Touches on the various fundamentals required to muster the skill in writing good lines and robust algorithms.<br>
+Focuses on the various fundamentals required to muster the skill in writing good lines and robust algorithms.<br>
 
 ## Contributions
 
