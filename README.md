@@ -3,13 +3,14 @@
 A very essential language any or every engineer should be familar and abreast with. <br>
 To build a robust software, then assuredly you need this powerful tool.
 
-## In-Scope
+## <i>In-Scope</i>
 
 In this repo look out for some basics syntaxes and beginner-friendly programs to increase the likeness to this language<br>
 A careful tailored approach for anyone starting the C++ journey<br>
 Focuses on the various fundamentals required to muster the skill in writing good lines and robust algorithms.<br>
+<i>For all your basics/fundamentals check out the source files. </i>
 
-## Contributions
+## <i>Contributions</i>
 
 All and sundry willing to help in making the c++ journey worthwile can surely contribute to the project.<br>
 Add some interesting programs to enthused beginners and intermediates alike.<br>
