@@ -34,5 +34,5 @@ Let's grow the tech family.<br>
 
 ## C++ Documentation <sub>Extra Info</sub>
 Read more on C++ [here](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)<br>
-Also W3Schools have got the best environment to learn and explore more the language. Make use of it
+Also W3Schools have got the best environment to learn and to explore more on the language. Make use of it
 [Click Here](https://www.w3schools.com/cpp/) to learn more.
