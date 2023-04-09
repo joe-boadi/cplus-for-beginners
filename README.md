@@ -15,7 +15,8 @@ int main(){
     return 0;
 };
 ```
-> LOL, I like food.
+> LOL, I like food. <br>
+> worth noting: you can either save your file with the .cc or .cpp extension in c++.
 
 ## *In-Scope*
 
@@ -23,6 +24,7 @@ In this repo look out for some basics syntaxes and beginner-friendly programs to
 A careful tailored approach for anyone starting the C++ journey<br>
 Focuses on the various fundamentals required to muster the skill in writing good lines and robust algorithms.<br>
 <i>For all your basics/fundamentals check out the source files. </i>
+>Happy Coding #100DaysOfCode #softwareEngineering
 
 ## *Contributions*
 
