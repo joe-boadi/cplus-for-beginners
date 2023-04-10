@@ -29,8 +29,8 @@ Focuses on the various fundamentals required to muster the skill in writing good
 ## *Contributions*
 
 All and sundry willing to help in making the c++ journey worthwile can surely contribute to the project.<br>
-Add some interesting programs to enthused beginners and intermediates alike.<br>
-Feel free to pull request, fork and star the repo.<br>
+Add some interesting programs to enthuse beginners and intermediates alike.<br>
+Feel free to fork this repo for to have an easy access, pull request & add those lines. I will be glad for your immense support for the fraternity<br>
 Let's reach the outer world.<br>
 Let's grow the tech family.<br>
 
