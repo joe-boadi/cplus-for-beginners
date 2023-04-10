@@ -20,7 +20,7 @@ int main(){
 
 ## *In-Scope*
 
-In this repo look out for some basics syntaxes and beginner-friendly programs to increase the likeness to this language<br>
+In this repo look out for some basics syntaxes and beginner-friendly programs to increase the likes & interest for this language<br>
 A careful tailored approach for anyone starting the C++ journey<br>
 Focuses on the various fundamentals required to muster the skill in writing good lines and robust algorithms.<br>
 <i>For all your basics/fundamentals check out the source files. </i>
