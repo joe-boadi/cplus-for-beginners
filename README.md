@@ -39,3 +39,23 @@ Read more on C++ [here](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)<br
 Also W3Schools have got the best environment to learn and to explore more on the language. Make use of it
 [Click Here](https://www.w3schools.com/cpp/) to learn more.<br>
 **This repository is for study purpose only and reference**
+
+###Topics In this Repo
++ Datatypes
+   - Variables
+   - Assigning values to a variable
+   - Dealing with numbers
++ Arrays
+   - Working with arrays
+   - Array types
+   - Methods on arrays/manipulating
+   - Looping through array
+   - 
++Interective C++
+> Interacting with user.
+   - Taking inout from user
+   - Working with user's input/data
+   - A first and basic project.
++ Working with functions
+ - Understanding parameters and arguments
+ - The function *main* and other _declared_ funtions
