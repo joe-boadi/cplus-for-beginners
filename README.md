@@ -40,7 +40,7 @@ Also W3Schools have got the best environment to learn and to explore more on the
 [Click Here](https://www.w3schools.com/cpp/) to learn more.<br>
 **This repository is for study purpose only and reference**
 
-###Topics In this Repo
+## **Topics to look out for:**
 + Datatypes
    - Variables
    - Assigning values to a variable
@@ -50,12 +50,18 @@ Also W3Schools have got the best environment to learn and to explore more on the
    - Array types
    - Methods on arrays/manipulating
    - Looping through array
-   - 
-+Interective C++
-> Interacting with user.
+
++ Operators
+   - Assignment operators
+   - Mathematical operators
+   - Logical operators
+   
++ Interective C++
    - Taking inout from user
    - Working with user's input/data
    - A first and basic project.
+   > User interaction
+   
 + Working with functions
- - Understanding parameters and arguments
- - The function *main* and other _declared_ funtions
+  - Understanding parameters and arguments
+  - The function *main* and other _declared_ funtions
