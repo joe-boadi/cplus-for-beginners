@@ -19,6 +19,7 @@ int main(){
 > worth noting: you can either save your file with the .cc or .cpp extension in c++.
 
 ## **Topics to look out for:**
+_NB; This is outlined in no particular order_
 + Datatypes
    - Variables
    - Assigning values to a variable
