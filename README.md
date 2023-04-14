@@ -48,6 +48,9 @@ _NB; This is outlined in no particular order_
  
 _And many more..._
 
+> *Take away:* Good documentation of code and comments in code is xtics of a good programmer. MAKE IT A HABIT! <br>
+> Write readable codes only-always
+
 <br>
 
 ## *In-Scope*
