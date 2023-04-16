@@ -34,6 +34,9 @@ _NB; This is outlined in no particular order_
    - Assignment operators
    - Mathematical operators
    - Logical operators
+   - Operator Overloading
+   
++ Classes
    
 + Interective C++
    - Taking inout from user
