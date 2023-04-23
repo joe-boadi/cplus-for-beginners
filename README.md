@@ -47,6 +47,11 @@ _NB; This is outlined in no particular order_
 + Working with functions
   - Understanding parameters and arguments
   - The function *main* and other _declared_ funtions
+
++ OOP
+  - Consruction
+  - Inheritance
+  - Polymorphism etc...
  <br>
  
 _And many more..._
