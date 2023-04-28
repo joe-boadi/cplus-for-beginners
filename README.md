@@ -24,6 +24,7 @@ _NB; This is outlined in no particular order_
    - Variables
    - Assigning values to a variable
    - Dealing with numbers
+   
 + Arrays
    - Working with arrays
    - Array types
@@ -53,6 +54,10 @@ _NB; This is outlined in no particular order_
   - Inheritance
   - Polymorphism etc...
  <br>
+ 
+ + Projects
+  - ATM 
+  - Smaller projects applications
  
 _And many more..._
 
